@@ -1,0 +1,1350 @@
+﻿Code ue;Matiere;Semestre;ParcoursID;ue ID
+CHM1120;Chimie appliquée;1;1069;1
+FRA1120;Techniques de communication orales;1;1069;2
+INF1120;Algorithmique et Initiation à la programmation;1;1069;3
+MTH1120;Bases mathématiques;1;1069;4
+MTH1121;Calcul différentiel et Pratique;1;1069;5
+MTU1120;Méthode de travail universitaire;1;1069;6
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1069;7
+PHY1121;Physique pour l'ingénieur : Électricité;1;1069;8
+ANG1221;Anglais : compréhension orale et écrite;2;1069;9
+FRA1220;Techniques de communication écrites;2;1069;10
+GEM1220;Géométrie descriptive et dessin;2;1069;11
+INF1220;Structure de données et programmation C;2;1069;12
+INF1221;Programmation Python;2;1069;13
+MTH1220;Structure algébrique de base;2;1069;14
+MTH1221;Algèbre linéaire et Pratique;2;1069;15
+PHY1220;Mécanique du solide;2;1069;16
+INF1320;Programmation Orientée Objet;3;1069;17
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1069;18
+MTH1320;Séries et intégrations multiple et généralisée;3;1069;19
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1069;20
+MTH1322;Algèbre tensorielle;3;1069;21
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1069;22
+PHY1321;Physique pour l'ingénieur : Optique;3;1069;23
+SEG1320;Economie et comptabilité;3;1069;24
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1069;25
+GEC1422;Résistance des Matériaux pour GC;4;1069;26
+GEC1423;Hydraulique des bases;4;1069;27
+GEL1429;Installations électriques;4;1069;28
+MTH1420;Calcul différentiel dans Rn;4;1069;29
+MTH1421;Statistiques inférentielles (décisionnelles);4;1069;30
+MTH1422;Analyse numérique et Pratique;4;1069;31
+MTH1423;Théorie des graphes;4;1069;32
+GEC1520;Technique de construction;5;1069;33
+GEC1521;Structures;5;1069;34
+GEC1522;Topographie appliquée;5;1069;35
+GEC1523;Matériaux: de génie civil;5;1069;36
+GEC1524;Dessin appliqué au génie civil;5;1069;37
+GEC1525;Géotechnique;5;1069;38
+GEC1620;Routes;6;1069;39
+GEC1621;Béton Armé;6;1069;40
+GEC1622;Hydrologie de l' ingénieur;6;1069;41
+GEC1623;Métré et étude de prix;6;1069;42
+GEC1624;Construction métallique : notions de bases et technologie;6;1069;43
+GEC1625;Eau et assainissement:technologie;6;1069;44
+GEC1626;Mécanique des sols;6;1069;45
+CHM1120;Chimie appliquée;1;1070;46
+FRA1120;Techniques de communication orales;1;1070;47
+INF1120;Algorithmique et Initiation à la programmation;1;1070;48
+MTH1120;Bases mathématiques;1;1070;49
+MTH1121;Calcul différentiel et Pratique;1;1070;50
+MTU1120;Méthode de travail universitaire;1;1070;51
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1070;52
+PHY1121;Physique pour l'ingénieur : Électricité;1;1070;53
+ANG1221;Anglais : compréhension orale et écrite;2;1070;54
+FRA1220;Techniques de communication écrites;2;1070;55
+GEM1220;Géométrie descriptive et dessin;2;1070;56
+INF1220;Structure de données et programmation C;2;1070;57
+INF1221;Programmation Python;2;1070;58
+MTH1220;Structure algébrique de base;2;1070;59
+MTH1221;Algèbre linéaire et Pratique;2;1070;60
+PHY1220;Mécanique du solide;2;1070;61
+INF1320;Programmation Orientée Objet;3;1070;62
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1070;63
+MTH1320;Séries et intégrations multiple et généralisée;3;1070;64
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1070;65
+MTH1322;Algèbre tensorielle;3;1070;66
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1070;67
+PHY1321;Physique pour l'ingénieur : Optique;3;1070;68
+SEG1320;Economie et comptabilité;3;1070;69
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1070;70
+GEL1420;Electronique;4;1070;71
+GEL1421;Electronique - Magnétisme - Machines - Réseaux;4;1070;72
+GEM1420;Notion de RDM pour ingénieur GE;4;1070;73
+MTH1420;Calcul différentiel dans Rn;4;1070;74
+MTH1421;Statistiques inférentielles (décisionnelles);4;1070;75
+MTH1422;Analyse numérique et Pratique;4;1070;76
+MTH1423;Théorie des graphes;4;1070;77
+GEL1520;Production, Transport, Distribution et Protection;5;1070;78
+GEL1521;Electronique Numérique;5;1070;79
+GEL1522;Systèmes Signaux Simulation;5;1070;80
+GEL1523;Electronique du Signal et Composants;5;1070;81
+GEL1524;Appareillage et Câblage Electriques;5;1070;82
+GEL1525;Circuits et Mesures Electriques;5;1070;83
+GEL1526;Stage d'initiation au métier de génie électrique;5;1070;84
+GEL1620;Asservissement et Régulation des Systèmes Linéaire;6;1070;85
+GEL1622;Electrostatique - Electrocinétique - Electromagnétisme;6;1070;86
+GEL1623;Machines électriques;6;1070;87
+GEL1624;Système de Maintenance;6;1070;88
+GEL1625;Automate Programmable Industriel;6;1070;89
+GEL1626;Convertisseurs statiques;6;1070;90
+GEL1627;Electroniques : Fonctions et Systèmes;6;1070;91
+GEL1628;Projet de Spécialité GE;6;1070;92
+GEL1629;Traitement du Signal;6;1070;93
+CHM1120;Chimie appliquée;1;1071;94
+FRA1120;Techniques de communication orales;1;1071;95
+INF1120;Algorithmique et Initiation à la programmation;1;1071;96
+MTH1120;Bases mathématiques;1;1071;97
+MTH1121;Calcul différentiel et Pratique;1;1071;98
+MTU1120;Méthode de travail universitaire;1;1071;99
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1071;100
+PHY1121;Physique pour l'ingénieur : Électricité;1;1071;101
+ANG1221;Anglais : compréhension orale et écrite;2;1071;102
+FRA1220;Techniques de communication écrites;2;1071;103
+GEM1220;Géométrie descriptive et dessin;2;1071;104
+INF1220;Structure de données et programmation C;2;1071;105
+INF1221;Programmation Python;2;1071;106
+MTH1220;Structure algébrique de base;2;1071;107
+MTH1221;Algèbre linéaire et Pratique;2;1071;108
+PHY1220;Mécanique du solide;2;1071;109
+INF1320;Programmation Orientée Objet;3;1071;110
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1071;111
+MTH1320;Séries et intégrations multiple et généralisée;3;1071;112
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1071;113
+MTH1322;Algèbre tensorielle;3;1071;114
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1071;115
+PHY1321;Physique pour l'ingénieur : Optique;3;1071;116
+SEG1320;Economie et comptabilité;3;1071;117
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1071;118
+GEL1420;Introduction à l'électronique et montage des circuits électroniques;4;1071;119
+GEL1421;Physiques pour l'Ingénieur : Electrotechnique - Magnétisme - Machines - Réseaux;4;1071;120
+GEL1422;Physiques pour l'ingénieur : Electrostatique - Electrocinétique - Electromagnétisme;4;1071;121
+GEL1423;Physique des Capteurs : Notions fondamentales;4;1071;122
+GEM1420;Résistance des matériaux pour ingénieur génie mécanique;4;1071;123
+MTH1420;Calcul différentiel dans Rn;4;1071;124
+MTH1421;Statistiques inférentielles (décisionnelles);4;1071;125
+MTH1422;Analyse numérique et Pratique;4;1071;126
+MTH1423;Théorie des graphes;4;1071;127
+GEM1520;Fabrication mécanique 1;5;1071;128
+GEM1521;Construction mécanique : les organes de transmission de puissance;5;1071;129
+GEM1522;Métrologie;5;1071;130
+GEM1523;Conception assistée par ordinateur;5;1071;131
+GEM1524;Résistance des matériaux : Dimensionnement des structures;5;1071;132
+GEM1525;Bureau des méthodes;5;1071;133
+GEM1526;Organisation et méthodes de la maintenance;5;1071;134
+GEM1527;Energies renouvelables;5;1071;135
+ANG1620;Anglais de spécialité pour le mécanicien;6;1071;136
+GEM1620;Métallurgie;6;1071;137
+GEM1621;Fabrication assistée par ordinateur et Pratique;6;1071;138
+GEM1622;Maintenance industrielle;6;1071;139
+GEM1623;Projet de conception;6;1071;140
+GEM1624;Montage d'usinage;6;1071;141
+GEM1625;Transfert Thermique;6;1071;142
+GEM1626;Thermodynamique avancée;6;1071;143
+GEM1627;Fabrication mécanique 2;6;1071;144
+GEM1628;Hydraulique et pneumatique;6;1071;145
+CHM1120;Chimie appliquée;1;1072;146
+FRA1120;Techniques de communication orales;1;1072;147
+INF1120;Algorithmique et Initiation à la programmation;1;1072;148
+MTH1120;Bases mathématiques;1;1072;149
+MTH1121;Calcul différentiel et Pratique;1;1072;150
+MTU1120;Méthode de travail universitaire;1;1072;151
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1072;152
+PHY1121;Physique pour l'ingénieur : Électricité;1;1072;153
+ANG1221;Anglais : compréhension orale et écrite;2;1072;154
+FRA1220;Techniques de communication écrites;2;1072;155
+GEM1220;Géométrie descriptive et dessin;2;1072;156
+INF1220;Structure de données et programmation C;2;1072;157
+INF1221;Programmation Python;2;1072;158
+MTH1220;Structure algébrique de base;2;1072;159
+MTH1221;Algèbre linéaire et Pratique;2;1072;160
+PHY1220;Mécanique du solide;2;1072;161
+INF1320;Programmation Orientée Objet;3;1072;162
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1072;163
+MTH1320;Séries et intégrations multiple et généralisée;3;1072;164
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1072;165
+MTH1322;Algèbre tensorielle;3;1072;166
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1072;167
+PHY1321;Physique pour l'ingénieur : Optique;3;1072;168
+SEG1320;Economie et comptabilité;3;1072;169
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1072;170
+DRT1420;Droit: droit du travail et droit de l'informatique;4;1072;171
+INF1428;Architecture et fonctionnement des réseaux Informatiques;4;1072;172
+INF1429;Analyse et conception MERISE;4;1072;173
+MTH1420;Calcul différentiel dans Rn;4;1072;174
+MTH1421;Statistiques inférentielles (décisionnelles);4;1072;175
+MTH1422;Analyse numérique et Pratique;4;1072;176
+MTH1423;Théorie des graphes;4;1072;177
+ANG1520;Anglais;5;1072;178
+INF1520;Initiation aux Systèmes d’Information;5;1072;179
+INF1521;Base de données;5;1072;180
+INF1522;Modélisation-UML;5;1072;181
+INF1525;Projet tutoré;5;1072;182
+INF1526;Bases de la Sécurité des systèmes informatiques;5;1072;183
+INF1527;Généralités sur les stockages de l'information;5;1072;184
+INF1528;Programmation web;5;1072;185
+INF1529;Compilation;5;1072;186
+ANG1620;Anglais;6;1072;187
+INF1620;Adminsitration de bases de données;6;1072;188
+INF1621;Adminsitration Système Linux;6;1072;189
+INF1623;Initiation à l'ingénierie des Systèmes d'Information;6;1072;190
+INF1624;Développement d'applications de bureau;6;1072;191
+INF1625;Développement d'applications distribuées;6;1072;192
+INF1630;Stage;6;1072;193
+CHM1120;Chimie appliquée;1;1073;194
+FRA1120;Techniques de communication orales;1;1073;195
+INF1120;Algorithmique et Initiation à la programmation;1;1073;196
+MTH1120;Bases mathématiques;1;1073;197
+MTH1121;Calcul différentiel et Pratique;1;1073;198
+MTU1120;Méthode de travail universitaire;1;1073;199
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1073;200
+PHY1121;Physique pour l'ingénieur : Électricité;1;1073;201
+ANG1221;Anglais : compréhension orale et écrite;2;1073;202
+FRA1220;Techniques de communication écrites;2;1073;203
+GEM1220;Géométrie descriptive et dessin;2;1073;204
+INF1220;Structure de données et programmation C;2;1073;205
+INF1221;Programmation Python;2;1073;206
+MTH1220;Structure algébrique de base;2;1073;207
+MTH1221;Algèbre linéaire et Pratique;2;1073;208
+PHY1220;Mécanique du solide;2;1073;209
+INF1320;Programmation Orientée Objet;3;1073;210
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1073;211
+MTH1320;Séries et intégrations multiple et généralisée;3;1073;212
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1073;213
+MTH1322;Algèbre tensorielle;3;1073;214
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1073;215
+PHY1321;Physique pour l'ingénieur : Optique;3;1073;216
+SEG1320;Economie et comptabilité;3;1073;217
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1073;218
+DRT1420;Droit: droit du travail et droit de l'informatique;4;1073;219
+INF1428;Architecture et fonctionnement des réseaux Informatiques;4;1073;220
+INF1429;Analyse et conception MERISE;4;1073;221
+MTH1420;Calcul différentiel dans Rn;4;1073;222
+MTH1421;Statistiques inférentielles (décisionnelles);4;1073;223
+MTH1422;Analyse numérique et Pratique;4;1073;224
+MTH1423;Théorie des graphes;4;1073;225
+ANG1520;Anglais;5;1073;226
+INF1520;Initiation aux Systèmes d’Information;5;1073;227
+INF1521;Base de données;5;1073;228
+INF1522;Modélisation-UML;5;1073;229
+INF1523;Méthodes numériques en python pour l'analyse;5;1073;230
+INF1525;Projet tutoré;5;1073;231
+MTH1520;Recherche opérationnelle;5;1073;232
+MTH1524;Modélisation statistique;5;1073;233
+ANG1620;Anglais;6;1073;234
+INF1620;Adminsitration de bases de données;6;1073;235
+INF1621;Adminsitration Système Linux;6;1073;236
+INF1622;Programmation distribuée pour le stockage et le calcul;6;1073;237
+INF1630;Stage;6;1073;238
+MTH1620;Statistiques exploratoires multidimensionelles;6;1073;239
+MTH1621;Data Mining;6;1073;240
+CHM1120;Chimie appliquée;1;1074;241
+FRA1120;Techniques de communication orales;1;1074;242
+INF1120;Algorithmique et Initiation à la programmation;1;1074;243
+MTH1120;Bases mathématiques;1;1074;244
+MTH1121;Calcul différentiel et Pratique;1;1074;245
+MTU1120;Méthode de travail universitaire;1;1074;246
+PHY1120;Physique pour l'ingénieur : Éléments de mécanique classique du point dans un référentiel galiléen;1;1074;247
+PHY1121;Physique pour l'ingénieur : Électricité;1;1074;248
+ANG1221;Anglais : compréhension orale et écrite;2;1074;249
+FRA1220;Techniques de communication écrites;2;1074;250
+GEM1220;Géométrie descriptive et dessin;2;1074;251
+INF1220;Structure de données et programmation C;2;1074;252
+INF1221;Programmation Python;2;1074;253
+MTH1220;Structure algébrique de base;2;1074;254
+MTH1221;Algèbre linéaire et Pratique;2;1074;255
+PHY1220;Mécanique du solide;2;1074;256
+INF1320;Programmation Orientée Objet;3;1074;257
+INF1321;Architecture et technologie des ordinateurs et des Système d'information;3;1074;258
+MTH1320;Séries et intégrations multiple et généralisée;3;1074;259
+MTH1321;Mathématiques pour l’Ingénieur : Probabilités et Statistiques;3;1074;260
+MTH1322;Algèbre tensorielle;3;1074;261
+PHY1320;Physique pour l'ingénieur : Loi de la thermodynamique;3;1074;262
+PHY1321;Physique pour l'ingénieur : Optique;3;1074;263
+SEG1320;Economie et comptabilité;3;1074;264
+ANG1420;Anglais de spécialité : Approche thématique des textes, compréhension orale et écrite;4;1074;265
+DRT1420;Droit: droit du travail et droit de l'informatique;4;1074;266
+INF1428;Architecture et fonctionnement des réseaux Informatiques;4;1074;267
+INF1429;Analyse et conception MERISE;4;1074;268
+MTH1420;Calcul différentiel dans Rn;4;1074;269
+MTH1421;Statistiques inférentielles (décisionnelles);4;1074;270
+MTH1422;Analyse numérique et Pratique;4;1074;271
+MTH1423;Théorie des graphes;4;1074;272
+ANG1520;Anglais;5;1074;273
+GEI1520;Introduction aux technologies de fabrication avancées;5;1074;274
+GEI1521;Qualité niveau I;5;1074;275
+GES1520;Gestion des stocks niveau I;5;1074;276
+GES1521;Gestion de production niveau I;5;1074;277
+INF1520;Initiation aux Systèmes d’Information;5;1074;278
+INF1521;Base de données;5;1074;279
+INF1525;Projet tutoré;5;1074;280
+MTH1520;Recherche opérationnelle;5;1074;281
+MTH1524;Modélisation statistique;5;1074;282
+ANG1620;Anglais;6;1074;283
+GEI1620;Qualité niveau II;6;1074;284
+GES1620;Gestion des stocks niveau II;6;1074;285
+GES1621;Gestion de production niveau II;6;1074;286
+GES1623;Logistique de transport et de distribution;6;1074;287
+INF1630;Stage;6;1074;288
+CHM107;Chimie appliquée;1;1093;289
+CHM113;Chimie par la Pratique;1;1093;290
+GEM100;Dessin Technique I;1;1093;291
+GEM110;Géométrie Descriptive de base;1;1093;292
+INF100;Système d'exploitation et introduction à la programmation;1;1093;293
+MTH100;Bases mathématiques;1;1093;294
+MTH101;Algèbre linéaire de base;1;1093;295
+PHY109;Electrostatique;1;1093;296
+PHY119;Lumière et Applications I;1;1093;297
+PHY129;Statique et Dynamique I;1;1093;298
+ANG100;Anglais : Ecouter et Parler;2;1093;299
+FRA100;Fançais : Ecouter et Parler;2;1093;300
+GEM200;Dessin Technique II;2;1093;301
+INF200;Algorithme et structures de données;2;1093;302
+MTH102;Structure algébrique de base;2;1093;303
+MTH103;Calcul Différentiel dans IR;2;1093;304
+PHY209;Electrocinétique;2;1093;305
+PHY219;Lumière et Applications II;2;1093;306
+PHY229;Statique et Dynamique II;2;1093;307
+ANG101;Anglais : Lire  et Ecrire;3;1093;308
+ECO300;Economie Générale;3;1093;309
+FRA101;Français: Lire  et Ecrire;3;1093;310
+GEL300;Introduction à l'Electronique;3;1093;311
+GEM310;Fabrication Mécanique I;3;1093;312
+MTH221;Suite et Séries des fonctions;3;1093;313
+PHY309;Magnétostatique & Rég. Variables I;3;1093;314
+PHY339;Physique des Capteurs;3;1093;315
+STA160;Calculs de Probabilités et Statistiques;3;1093;316
+ANG201;Anglais de spécialité : approche thématique des textes;4;1093;317
+FRA205;Fançais : Ecrits professionnels;4;1093;318
+GEL350;Introduction à l'Electrotechnique;4;1093;319
+GEM105;Statique Appliquée;4;1093;320
+GEM122;Introduction à la Mécanique des fluides;4;1093;321
+GEM215;Notion de RDM pour Ingénieur en GE;4;1093;322
+INF300;Programmation Orientée Objet;4;1093;323
+INF305;Introduction au Système UNIX;4;1093;324
+MTH104;Calcul Intégral et applications;4;1093;325
+PHY319;Magnétostatique et Régimes variables II;4;1093;326
+GEL400;Electronique I;5;1093;327
+GEL410;Circuits Electriques;5;1093;328
+GEM301;Construction Mécanique pour GE;5;1093;329
+MGT400;Electromagnétisme I;5;1093;330
+MTH400;Analyse Numérique;5;1093;331
+MTH410;Fonct. Spéc. et Equat. aux Dériv. Part.;5;1093;332
+MTH420;Analyse tensor. et introd. à la MMC;5;1093;333
+PHY329;Introduction à la thermodynamique;5;1093;334
+CPT400;Comptabilité;6;1093;335
+DRI400;Gestion de la Propriété Industrielle;6;1093;336
+GEL402;Mesures Electriques;6;1093;337
+GEL404;Appareillages Electriques & Câblage;6;1093;338
+GEL450;Electronique II;6;1093;339
+GEL452;Systèmes Logiques;6;1093;340
+GEL454;Systèmes-Simulations-Signaux;6;1093;341
+GEL456;Machines Electriques I;6;1093;342
+GEL528;Traitement du Signal;6;1093;343
+CHM107;Chimie appliquée;1;1094;344
+CHM113;Chimie par la Pratique;1;1094;345
+GEM100;Dessin Technique I;1;1094;346
+GEM110;Géométrie descriptive;1;1094;347
+INF100;Système d'exploitation et introduction à la programmation;1;1094;348
+MTH100;Bases mathématiques;1;1094;349
+MTH101;Algèbre linéaire de base;1;1094;350
+PHY109;Electrostatique;1;1094;351
+PHY119;Lumière et application I;1;1094;352
+PHY129;Statique et Dynamique I;1;1094;353
+ANG100;Anglais : Ecouter et Parler;2;1094;354
+FRA100;Français : Ecouter et Parler;2;1094;355
+GEM200;Dessin Technique II;2;1094;356
+INF200;Algorithme et structures de données;2;1094;357
+MTH102;Structure algébrique de base;2;1094;358
+MTH103;Calcul Différentiel dans IR;2;1094;359
+PHY209;Electrocinétique;2;1094;360
+PHY219;Lumière et application II;2;1094;361
+PHY229;Statique et Dynamique II;2;1094;362
+ANG101;Anglais : Lire  et Ecrire;3;1094;363
+ECO300;Economie Générale;3;1094;364
+FRA101;Français : Lire  et Ecrire;3;1094;365
+GEC110;Matériaux tropicaux;3;1094;366
+GEC125;Dessin de Génie Civil;3;1094;367
+GEC151;Machines de chantier;3;1094;368
+GEM310;Fabrication Mécanique I;3;1094;369
+MTH221;Suites et séries des fonctions;3;1094;370
+PHY309;Magnétostatique et Régimes variables I;3;1094;371
+STA160;Calcul de probabilités et statistiques;3;1094;372
+ANG201;Anglais de spécialité : approche thématique des textes;4;1094;373
+FRA205;Français : Ecrits professionnels;4;1094;374
+GEC115;Géologie appliquée;4;1094;375
+GEC127;Dessin d'architecture;4;1094;376
+GEM105;Statique Appliquée;4;1094;377
+GEM122;Introduction à la Mécanique des fluides;4;1094;378
+INF300;Programmation Orientée Objet;4;1094;379
+INF305;Introduction au Système UNIX;4;1094;380
+MTH104;Calcul Intégral et applications;4;1094;381
+PHY319;Magnétostatique et Régimes variables II;4;1094;382
+GEC120;Topographie;5;1094;383
+GEC130;Matériaux de construction des ouvrages de GC;5;1094;384
+GEC220;Initiation au DAO;5;1094;385
+GEC305;Ecoulement en charge;5;1094;386
+GEM210;Résistance des Matériaux pour GC;5;1094;387
+MTH400;Analyse Numérique;5;1094;388
+MTH410;Fonctions spéciales et équations aux dérivées partielles;5;1094;389
+MTH420;Analyse tensorielle et introduction à la MMC;5;1094;390
+CPT400;Comptabilité;6;1094;391
+DRI400;Gestion de la proprieté industrielle;6;1094;392
+GEC160;Conception bâtiments;6;1094;393
+GEC235;Projet de topographie;6;1094;394
+GEC310;Ecoulement à surface libre;6;1094;395
+GEC315;Structures;6;1094;396
+GEC370;Hydrologie de l'ingénieur;6;1094;397
+GEL307;Equipements électriques;6;1094;398
+GEM495;Mécanique des milieux continus;6;1094;399
+CHM107;Chimie appliquée;1;1095;400
+CHM113;Chimie par la Pratique;1;1095;401
+GEM100;Dessin Technique I;1;1095;402
+GEM110;Géométrie Descriptive de base;1;1095;403
+INF100;Système d'exploitation et introduction à la programmation;1;1095;404
+MTH100;Bases mathématiques;1;1095;405
+MTH101;Algèbre linéaire de base;1;1095;406
+PHY109;Electrostatique;1;1095;407
+PHY119;Lumière et application I;1;1095;408
+PHY129;Statique et Dynamique I;1;1095;409
+ANG100;Anglais : Ecouter et Parler;2;1095;410
+FRA100;Français : Ecouter et Parler;2;1095;411
+GEM200;Dessin Technique II;2;1095;412
+INF200;Algorithme et structures de données;2;1095;413
+MTH102;Structure algébrique de base;2;1095;414
+MTH103;Calcul Différentiel dans IR;2;1095;415
+PHY209;Electrocinétique;2;1095;416
+PHY219;Lumière et application II;2;1095;417
+PHY229;Statique et Dynamique II;2;1095;418
+ANG101;Anglais : Lire  et Ecrire;3;1095;419
+ECO300;Economie Générale;3;1095;420
+FRA101;Français : Lire  et Ecrire;3;1095;421
+GEM310;Fabrication Mécanique I;3;1095;422
+GEM315;Productique;3;1095;423
+GEM330;Construction Mécanique I;3;1095;424
+MTH221;Suites et séries des fonctions et intégrales dépendant d'un paramètre;3;1095;425
+PHY309;Magnétostatique et Régimes variables;3;1095;426
+PHY329;Thermodynamique classique;3;1095;427
+STA160;Calculs de probabilité et statistique;3;1095;428
+ANG201;Anglais de spécialité : approche thématique des textes;4;1095;429
+FRA205;Français : Ecrits professionnels;4;1095;430
+GEM105;Statique Appliquée;4;1095;431
+GEM122;Introduction à la Mécanique des fluides;4;1095;432
+GEM135;TP Fabrication Mécanique I;4;1095;433
+GEM300;Introduction à la Conception Assistée par Ordinateur;4;1095;434
+INF300;Programmation Orientée Objet;4;1095;435
+INF305;Introduction au Système UNIX;4;1095;436
+MTH104;Calcul Intégral et applications;4;1095;437
+PHY319;Magnétostatique et Régimes variables II;4;1095;438
+GEL420;Circuits et Mesures Electriques;5;1095;439
+GEM340;Fabrication mécanique II;5;1095;440
+GEM405;Bureau des Méthodes I;5;1095;441
+GEM410;Construction Mécanique II;5;1095;442
+GEM420;TP Fabrication Mécanique II;5;1095;443
+MTH400;Analyse Numérique;5;1095;444
+MTH410;Fonctions spéciales et Equations aux dérivées partielles;5;1095;445
+MTH420;Analyse tensorielle et introduction à la MMC;5;1095;446
+CPT400;Comptabilité;6;1095;447
+DRI400;Gestion de la Propriété Industrielle;6;1095;448
+GEM320;Résistance des matériaux I;6;1095;449
+GEM415;Fabrication mécanique III;6;1095;450
+GEM416;Hydraulique et pneumatique;6;1095;451
+GEM434;Construction Mécanique III;6;1095;452
+GEM440;Bureau des Méthodes II;6;1095;453
+GEM480;Projet de conception Génie Mécanique;6;1095;454
+GEM495;Mécanique des milieux continus;6;1095;455
+ANG1120;Anglais : expression orale et écrite;1;1075;456
+CHM1125;Chimie appliquée : notions de base;1;1075;457
+FRA1120;Français : expression orale et écrite;1;1075;458
+GEC1122;Géologie appliquée;1;1075;459
+GEC1123;Mécanique appliquée au génie civil;1;1075;460
+GEC1124;Hydrologie de l’ingénieur, notion de base;1;1075;461
+GEC1125;Topographie;1;1075;462
+GEL1120;Installations électriques;1;1075;463
+GEM1125;Géométrie descriptive;1;1075;464
+MTH1125;Eléments d'algèbre et de géométrie;1;1075;465
+PHY1125;Electrostatique et applications;1;1075;466
+ANG1220;Anglais lire et écrire;2;1075;467
+CHM1225;Chimie appliquée : notions avancées;2;1075;468
+FRA1220;Français : Lire et Ecrire;2;1075;469
+GEC1224;Technologie des ouvrages;2;1075;470
+GEC1225;Géotechnique;2;1075;471
+GEC1226;Matériaux de construction;2;1075;472
+GEC1227;Topographie applications;2;1075;473
+INF1225;Informatique;2;1075;474
+MTH1225;Eléments d'analyse mathématique;2;1075;475
+FRA1321;Français : Ecrits professionnels;3;1075;476
+GEC1325;Calcul de Structures;3;1075;477
+GEC1326;Techniques de construction;3;1075;478
+GEC1327;Hydrolique de base;3;1075;479
+GEC1328;Construction métallique : Notions de base et technologie;3;1075;480
+MTH1325;Intégrales généralisés, Transformés de Fourier et de Laplace et Application;3;1075;481
+MTH1326;Introduction au calcul de probabilités et statistiques;3;1075;482
+ANG1421;Anglais de spécialité : approche thématique des textes;4;1075;483
+GEC1424;Béton Armé;4;1075;484
+GEC1425;Physique du bâtiment;4;1075;485
+GEC1426;Dessin appliqué;4;1075;486
+GEC1427;Routes;4;1075;487
+GEC1458;Gestion de chantier;4;1075;488
+DRV1520;Propriété industrielle : Notions générales;5;1075;489
+GEC1521;Etude de DAO et soumission;5;1075;490
+GEC1525;Métré et étude de prix;5;1075;491
+GEC1528;Eau et assainissement;5;1075;492
+GEO1523;Initiation au système d'information géographique SIG;5;1075;493
+INF1526;Logiciels professionnels;5;1075;494
+MGT1520;Vie professionnelle et entrepreneuriat;5;1075;495
+MGT1521;HSQE;5;1075;496
+GEC1629;Stage et mémoire de licence professionnelle génie civil, conducteur des travaux;6;1075;497
+ANG1120;Anglais : Ecouter et Parler;1;1076;498
+CHM1120;Chimie Appliquée pour Tech. Sup. : Notions de Base;1;1076;499
+FRA1120;Français : Ecouter et Parler;1;1076;500
+GEL1120;Circuits Electriques;1;1076;501
+GEL1121;Introduction à l’Electronique Générale par la Pratique;1;1076;502
+GEM1123;Notions sur la Résistance de Matériaux;1;1076;503
+GEM1125;"Géométrie Descriptive pour Tech ; Sup.";1;1076;504
+MTH1125;Eléments d’Algèbre et de Géométrie;1;1076;505
+PHY1120;Mécanique Appliquée au point Matériel;1;1076;506
+PHY1125;Electrostatique et applications;1;1076;507
+ANG1220;Anglais : Lire et Ecrire;2;1076;508
+CHM1225;Chimie appliquée, notions avancées;2;1076;509
+FRA1220;Français : Lire et Ecrire;2;1076;510
+GEL1220;Transformateurs et Machines Asynchrones;2;1076;511
+GEL1221;Mesure etEssais et câblage;2;1076;512
+INF1226;Introduction à la Programmation;2;1076;513
+MTH1225;Elément d’Analyse Mathématique;2;1076;514
+NF1225;Informatique de Base;2;1076;515
+PHY1225;Introduction à la Physique des capteurs;2;1076;516
+PHY1226;Résistance des Matériaux;2;1076;517
+PHY1227;Mécanique Appliquée au Solide;2;1076;518
+FRA1320;Français : Ecrits Professionnels;3;1076;519
+GEL1320;Installations et alimentation Electriques;3;1076;520
+GEL1321;Electronique analogique et digitale;3;1076;521
+GEL1322;Machines à Courant Continu et Machines Synchrones;3;1076;522
+INF1325;Mise œuvre de systèmes Informatiques;3;1076;523
+INF1326;Technologie des Ordinateurs;3;1076;524
+MTH1325;Intégrales Généralisées, Transformées de Fourier et de Laplace et Applications;3;1076;525
+MTH1326;Calcul de probabilités et statistiques;3;1076;526
+ANG1420;Anglais de spécialité : approche thématique des textes;4;1076;527
+GEL1421;Asservissement et regulation analogique;4;1076;528
+GEL1422;Automates Programmables par la Pratique;4;1076;529
+GEL1423;Introduction à la Production Transport, Distribution et Protection;4;1076;530
+GEL1424;Lignes-Antennes-Propagation (LAP);4;1076;531
+GEL1425;Maintenance des Appareils Audio Visuels (MAAV);4;1076;532
+GEL1428;Introduction à l’Electronique de Puissance;4;1076;533
+INF1426;Introduction à l’algorithme, à la Programmation et aux bases de Données;4;1076;534
+INF1427;Informatique Industrielle : Mise en œuvre des microprocesseurs;4;1076;535
+MGT1420;Initiation à la vie Professionnelle;4;1076;536
+DRV1520;Gestion de Propriété Industrielle;5;1076;537
+GEL1520;Réseaux Electriques, Distribution et Protection;5;1076;538
+GEL1521;Energies solaire et éolienne;5;1076;539
+GEL1522;Machines électriques et convertisseurs statiques;5;1076;540
+GEL1523;Projet Tutoré (PDGEE) Respecter un cahier de Charges et les délais;5;1076;541
+GEL1524;Sécurité et Hygiène du Travail;5;1076;542
+MGT1520;Elaboration de Projet de création d'Entreprises;5;1076;543
+MGT1521;Initiation à la démarche Qualité;5;1076;544
+GEL1620;Stage professionnelle en Génie Electrique pour Lpro;6;1076;545
+GEL1621;Rédaction du mémoire;6;1076;546
+GEL1622;Soutenance du mémoire;6;1076;547
+ANG1120;Anglais : Parler;1;1078;548
+FRA1120;Français : Parler;1;1078;549
+GEL1121;Electronique analogique;1;1078;550
+INF1120;Architecture et Technologie des Ordinateurs;1;1078;551
+INF1121;Informatique de base et initiation au métier de l'ingénieur;1;1078;552
+INF1126;Systèmes d'exploitation;1;1078;553
+MTH1121;Algèbre linéaire de base;1;1078;554
+MTH1122;Calcul Différentiel dans IR;1;1078;555
+MTU1120;Méthode de travail universitaire;1;1078;556
+GEL1221;Electronique Numérique;2;1078;557
+INF1220;Eléments mathématiques sur les bases de données;2;1078;558
+INF1225;Généralités sur les Réseaux;2;1078;559
+INF1226;Initiation à la programmation procédurale et web;2;1078;560
+INF1228;Méthode d'Analyse et Conception de logiciel - MERISE;2;1078;561
+MTH1222;Structure algébrique de base;2;1078;562
+MTH1224;Calcul Intégral et applications;2;1078;563
+MTH1225;Calcul de Probabilités et Statistique;2;1078;564
+ANG1320;Anglais : Lire et comprendre;3;1078;565
+FRA1320;Français : Lire et comprendre;3;1078;566
+INF1321;Théorie des Systèmes d'Exploitation;3;1078;567
+INF1325;Analyse et conception d'algorithmes;3;1078;568
+INF1326;Programmation Orientée Objet;3;1078;569
+INF1328;Développement web;3;1078;570
+INF1329;Projet Tuteuré 1;3;1078;571
+MTH1320;Algorithmiques  Numériques;3;1078;572
+MTH1324;Recherche opérationnelle;3;1078;573
+CPT1420;Comptabilité Générale de base;4;1078;574
+DRT1420;Droit de l’Informatique;4;1078;575
+INF1421;Administration de bases de données;4;1078;576
+INF1423;Administration Système;4;1078;577
+INF1425;Généralités sur la sécurité informatique;4;1078;578
+INF1426;Développement d’applications de bureau;4;1078;579
+INF1427;Structure de Données;4;1078;580
+INF1428;Modélisation  UML;4;1078;581
+INF1429;Normes documentaires;4;1078;582
+INF1523;Programmation et Administration Système;5;1078;583
+INF1525;Projet Tuteuré GL 2;5;1078;584
+INF1526;Développement d’applications distribuées;5;1078;585
+INF1527;Systèmes d’informations;5;1078;586
+INF1528;Initiation au Génie Logiciel;5;1078;587
+MGT1520;Initiation à l’entrepreneuriat;5;1078;588
+MTH1525;Théorie des graphes;5;1078;589
+INF1627;Initiation à l’ingénierie des Systèmes d’Information;6;1078;590
+INF1628;Administration des résaux informatiques;6;1078;591
+INF1629;Stage + Projet professionnel;6;1078;592
+MGT1620;Gestion de projet et entrepreneuriat;6;1078;593
+ANG1120;Anglais : écouter et parler;1;1077;594
+CHM1120;Chimie appliquée : notions de base;1;1077;595
+FRA1120;Français : écouter et parler;1;1077;596
+GEL1120;Electricité, conducteurs et électrocinétique;1;1077;597
+GEM1120;Statique Appliquée;1;1077;598
+GEM1121;Thermodynamique : notions générales;1;1077;599
+GEM1122;Fabrication mécanique 1;1;1077;600
+GEM1123;Construction mécanique : liaisons, arbres, roulements;1;1077;601
+GEM1124;Métrologie;1;1077;602
+MTH1120;Eléments d'algèbre et de géométrie;1;1077;603
+ANG1220;Anglais : lire et écrire;2;1077;604
+CHM1220;Chimie appliquée : notions avancées;2;1077;605
+FRA1220;Français : lire et écrire;2;1077;606
+GEM1220;Mécanismes et résistance des matériaux;2;1077;607
+GEM1221;Fabrication mécanique 2;2;1077;608
+GEM1222;Construction mécanique : organes de transmission de mouvement;2;1077;609
+GEM1223;Bureau des méthodes;2;1077;610
+INF1220;Informatique et programmation;2;1077;611
+MTH1220;Eléments d'analyse mathématique;2;1077;612
+FRA1320;Français : écrits professionnels;3;1077;613
+GEL1320;Notions d'électrotechnique;3;1077;614
+GEM1320;Mécanique appliquée et résistance des matériaux avancées;3;1077;615
+GEM1321;Métallurgie;3;1077;616
+GEM1322;Fabrication mécanique 3;3;1077;617
+GEM1323;Contruction mécanique : éléments de transmission;3;1077;618
+GEM1324;Conception et Fabrication Assistées par Ordinateur et Commande Numérique (CFAO-CN);3;1077;619
+MTH1320;Intégrales Généralisées, Transformées de Fourier et de Laplace et Applications;3;1077;620
+MTH1321;Introduction au calcul de probabilités et statistiques;3;1077;621
+PHY1320;Mécanique des fluides : notions fondamentales;3;1077;622
+FRA1420;Anglais de spécialité : approche thématique des textes;4;1077;623
+GEL1420;Automatisme : notions fondamentales;4;1077;624
+GEM1420;Organisation et méthodes de la maintenance;4;1077;625
+GEM1421;Asservissement et régulation;4;1077;626
+GEM1422;Métallurgie et essai des matériaux;4;1077;627
+GEM1423;Hydraulique et pneumatique et TP Hydraulique;4;1077;628
+GEM1424;Introduction à la mécanique des contacts;4;1077;629
+GEM1425;Fabrication mécanique 4;4;1077;630
+GEM1426;Micro-projet;4;1077;631
+GEM1427;Thermique appliquée;4;1077;632
+GEM1428;Fabrication mécanique et procédés de montage;4;1077;633
+GEM1429;Construction mécanique : organes de transmission de puissance;4;1077;634
+DRV1520;Propriété industrielle : Notions générales;5;1077;635
+GEL1520;Machines électriques;5;1077;636
+GEL1521;Commande des machines;5;1077;637
+GEM1520;Mécanique auto;5;1077;638
+GEM1521;Maintenance des systèmes industrielles;5;1077;639
+GEM1522;Appareils de levage et manutention;5;1077;640
+GEM1523;Conception et analyse des systèmes mécaniques;5;1077;641
+GEM1524;Froid et climatisation;5;1077;642
+MGT1520;Vie professionnelle et entreprenariat;5;1077;643
+MGT1521;Hygiène, Sécurité, Qualité et Environnement(HSQE);5;1077;644
+GEM1620;Stage en milieu professionnel;6;1077;645
+GEM1621;Rédaction de mémoire;6;1077;646
+GEM1622;Soutenance de mémoire;6;1077;647
+ANG1120;Anglais : Parler;1;1079;648
+FRA1120;Français : Parler;1;1079;649
+GEL1121;Electronique analogique;1;1079;650
+GEL1122;TP Electronique;1;1079;651
+INF1120;Architecture et Technologie des Ordinateurs;1;1079;652
+MTH1121;Algèbre linéaire de base;1;1079;653
+MTH1122;Calcul Différentiel dans IR;1;1079;654
+MTU1120;Méthode de travail universitaire;1;1079;655
+PHY1120;Electromagnétisme de base;1;1079;656
+GEL1221;Electronique Numérique;2;1079;657
+INF1223;Architecture Matérielle;2;1079;658
+INF1226;Initiation à la programmation procédurale et web;2;1079;659
+INF1228;Méthode d'Analyse et Conception de logiciel - MERISE;2;1079;660
+MTH1222;Structure algébrique de base;2;1079;661
+MTH1224;Calcul Intégral et applications;2;1079;662
+MTH1225;Calcul de Probabilités et Statistique;2;1079;663
+INF1320;Projet Tuteuré;3;1079;664
+INF1322;Bases de données;3;1079;665
+INF1323;Maintenance informatique;3;1079;666
+INF1327;Systèmes d'exploitation;3;1079;667
+MTH1320;Algorithmiques Numériques;3;1079;668
+MTH1324;Recherche opérationnelle;3;1079;669
+PHY1320;Electromagnétisme : onde et propagation;3;1079;670
+ANG1401;Anglais : Lire et comprendre;4;1079;671
+CPT1420;Comptabilité Générale de base;4;1079;672
+DRT1420;Droit de l’Informatique;4;1079;673
+FRA1401;Français : Lire et comprendre;4;1079;674
+INF1420;Stockage et technologie;4;1079;675
+INF1421;Administration de bases de données;4;1079;676
+INF1422;Réseaux informatiques;4;1079;677
+INF1423;Administration Système;4;1079;678
+INF1516;Programmation Orientée Objet;5;1079;679
+INF1521;Réseaux télécoms;5;1079;680
+INF1522;Projet Tuteuré 2;5;1079;681
+INF1523;Programmation et Administration Système;5;1079;682
+INF1527;Systèmes d’information;5;1079;683
+MGT1520;Initiation à l’entrepreneuriat;5;1079;684
+INF1620;Sécurité informatique;6;1079;685
+INF1621;Administration réseaux;6;1079;686
+INF1622;Stage + Projet de Synthèse;6;1079;687
+MGT1620;Gestion de projet et entrepreneuriat;6;1079;688
+ANG100;Anglais : Ecouter et Parler;1;1097;689
+CHM115;Chimie appliquée pour Tech. Sup. I;1;1097;690
+FRA100;Français : Ecouter et Parler;1;1097;691
+GEC100;Statistique appliquée en GC;1;1097;692
+GEC105;Ecoulement en charge;1;1097;693
+GEC115;Géologie appliquée;1;1097;694
+GEC120;Topographie I;1;1097;695
+GEC190;Procédés généraux de construction;1;1097;696
+GEM111;Géométrie descriptive pour Tech. Sup. I;1;1097;697
+MTH150;Elément de l'Algèbre et de Géométrie;1;1097;698
+PHY139;Electrostatique et applications;1;1097;699
+ANG101;Anglais : Lire  et Ecrire;2;1097;700
+CHM215;Chimie appliquée pour technicien supérieur II;2;1097;701
+FRA101;Français: Lire  et Ecrire;2;1097;702
+GEC130;Matériaux de construction des ouvrages de GC;2;1097;703
+GEC140;Propriétés physiques et hydromécaniques des sols;2;1097;704
+GEC151;Machines de chantier;2;1097;705
+GEC210;Introduction à la Résistance des matériaux;2;1097;706
+GEC345;Alimentation en eau;2;1097;707
+INF215;Informatique de Base;2;1097;708
+INF216;Introduction à la Programmation;2;1097;709
+MTH151;Elément d'Analyse;2;1097;710
+FRA205;Français: Ecrits professionnels;3;1097;711
+GEC121;Topographie II;3;1097;712
+GEC155;Métré et étude de prix;3;1097;713
+GEC170;Routes I;3;1097;714
+GEC215;Dessin d'architecture;3;1097;715
+GEC316;Calcul de Structures;3;1097;716
+GEC320;Béton armé I;3;1097;717
+GEC350;Assainissement;3;1097;718
+MTH231;Intégrales généralisés, Transformés de Fourier et de Laplace et Application;3;1097;719
+STA160;Calcul de probabilités et statistiques;3;1097;720
+ANG201;Anglais de spécialité : approche thématique des textes;4;1097;721
+ECO370;Initiation à la vie Professionnelle;4;1097;722
+GEC125;Dessin de Génie Civil;4;1097;723
+GEC160;Conception des bâtiments;4;1097;724
+GEC175;Routes II;4;1097;725
+GEC180;Chauffage et climatisation;4;1097;726
+GEC185;Thermique du bâtiment;4;1097;727
+GEC255;Organisation et planification de chantier;4;1097;728
+GEC322;Béton armé II;4;1097;729
+GEC355;Construction métallique;4;1097;730
+DRI400;Gestion de la proprieté industrielle;5;1097;731
+ECO410;Elaboration des projets de création d'entreprise;5;1097;732
+GEC102;Ouvrage d'arts;5;1097;733
+GEC247;Etude de prix et actualisation;5;1097;734
+GEC248;Etude de DAO et soumission;5;1097;735
+GEC260;Eléments de contrôle de chantier;5;1097;736
+GEC271;Topographie assistée par ordinateur;5;1097;737
+GEC376;Etude de structure assistée par ordinateur;5;1097;738
+GEC470;Dessin Assisté par Ordinateur;5;1097;739
+GEL140;Installation électrique;5;1097;740
+MGT400;Gestion de la Qualité;5;1097;741
+MGT410;Sécurité et Hygiène du Travail;5;1097;742
+GEC390;Mémoire de licence professionnelle;6;1097;743
+ANG100;Anglais : Ecouter et Parler;1;1100;744
+CHM115;Chimie appliquée pour Tech. Sup.: notions de base;1;1100;745
+FRA100;Français : Ecouter et Parler;1;1100;746
+GEC100;Statique appliquée en GC;1;1100;747
+GEC103;Hydrologie de l'ingénieur: notions de base;1;1100;748
+GEC115;Géologie appliquée;1;1100;749
+GEC120;Introduction à la Topographie;1;1100;750
+GEC130;Matériaux de construction des ouvrages de génie civil;1;1100;751
+GEM111;Géométrie descriptive pour Tech. Sup.;1;1100;752
+MTH150;Eléments d'algèbre et de géométrie;1;1100;753
+PHY139;Electrostatique et applications;1;1100;754
+UEL1;UE Libre;1;1100;755
+ANG101;Anglais : Lire et Ecrire;2;1100;756
+CHM215;Chimie appliquée pour technicien supérieur: notions avancées;2;1100;757
+FRA101;Français: Lire et Ecrire;2;1100;758
+GEC105;Ecoulement en charge : notions de base;2;1100;759
+GEC140;Propriétés physiques et hydromécaniques des sols;2;1100;760
+GEC151;Machines de chantier;2;1100;761
+GEC190;Procédés généraux de construction;2;1100;762
+GEC210;Introduction à la Résistance des matériaux;2;1100;763
+GEC215;Dessin d'architecture;2;1100;764
+INF115;Informatique de Base;2;1100;765
+INF116;Introduction à la Programmation;2;1100;766
+MTH151;Eléments d'analyse mathématique;2;1100;767
+UEL2;UE Libre;2;1100;768
+FRA205;Français: Ecrits professionnels;3;1100;769
+GEC107;Ecoulement à surface  libre;3;1100;770
+GEC121;Topographie: niveau avancé;3;1100;771
+GEC155;Métré et étude de prix;3;1100;772
+GEC170;Routes: Structures des chaussées;3;1100;773
+GEC316;Calcul de Structures;3;1100;774
+GEC320;Béton armé: Calcul des sollicitations;3;1100;775
+MTH231;Intégrales généralisés, Transformés de Fourier et de Laplace et Application;3;1100;776
+STA160;Calcul de probabilités et statistiques;3;1100;777
+UEL3;UE Libre;3;1100;778
+ANG201;Anglais de spécialité : approche thématique des textes;4;1100;779
+ECO370;Initiation à la vie Professionnelle;4;1100;780
+GEC125;Dessin de Génie Civil;4;1100;781
+GEC160;Conception des bâtiments;4;1100;782
+GEC175;Routes : géométrie;4;1100;783
+GEC180;Chauffage et climatisation;4;1100;784
+GEC185;Thermique du bâtiment;4;1100;785
+GEC255;Organisation et planification de chantier;4;1100;786
+GEC322;Béton armé: Justification des sections;4;1100;787
+GEC345;Alimentation en eau;4;1100;788
+GEC355;Construction métallique;4;1100;789
+UEL4;UE Libre;4;1100;790
+DRV471;Propriété industrielle: Notions générales;5;1100;791
+ECO410;Elaboration des projets de création d'entreprise;5;1100;792
+GEC102;Ouvrage d'arts: notions de  base;5;1100;793
+GEC248;Etude de DAO et soumission;5;1100;794
+GEC260;Eléments de contrôle de chantier;5;1100;795
+GEC271;Topographie assistée par ordinateur;5;1100;796
+GEC350;Assainissement;5;1100;797
+GEC376;Etude de structure assistée par ordinateur;5;1100;798
+GEC470;Dessin Assisté par Ordinateur;5;1100;799
+GEL140;Installation électrique;5;1100;800
+MGT400;Gestion de la Qualité;5;1100;801
+MGT410;Sécurité et Hygiène du Travail;5;1100;802
+GEC460;Stage et mémoire de licence professionnelle génie civil, conducteur des travaux;6;1100;803
+CHM107;Chimie appliquée;1;1103;804
+GEM100;Dessin technique: dessin de définition;1;1103;805
+GEM110;Géométrie Descriptive de base;1;1103;806
+INF100;Système d'exploitation et introduction à la programmation;1;1103;807
+MTH100;Bases mathématiques;1;1103;808
+MTH101;Algèbre linéaire de base;1;1103;809
+PHY103;Lumière et application;1;1103;810
+PHY104;Électrostatique et Électrocinétique;1;1103;811
+PHY106;Mécanique du point matériel;1;1103;812
+ANG100;Anglais : Ecouter et Parler;2;1103;813
+ARC127;Dessin d'architecture;2;1103;814
+FRA100;Français : Ecouter et Parler;2;1103;815
+GEC115;Géologie appliquée;2;1103;816
+GEC120;Topographie;2;1103;817
+INF200;Algorithme et structures de données;2;1103;818
+MTH102;Structure algébrique de base;2;1103;819
+MTH103;Calcul Différentiel dans IR;2;1103;820
+PHY206;Mécanique du solide;2;1103;821
+ANG101;Anglais : Lire et Ecrire;3;1103;822
+ECO100;Introduction générale à la science économique;3;1103;823
+FRA101;Français : Lire et Ecrire;3;1103;824
+GEC125;Dessin de Génie Civil;3;1103;825
+GEC130;Matériaux de construction des ouvrages de génie civil;3;1103;826
+GEC160;Conception bâtiment;3;1103;827
+PHY110;Magnétostatique et Régimes variables;3;1103;828
+PHY159;Introduction à la Mécanique des fluides;3;1103;829
+PHY169;Statique Appliquée;3;1103;830
+STA160;Calcul de probabilités et statistiques;3;1103;831
+ANG201;Anglais de spécialité : approche thématique des textes;4;1103;832
+FRA205;Français: Ecrits professionnels;4;1103;833
+GEC151;Machines de chantier;4;1103;834
+GEC239;Résistance des Matériaux pour GC;4;1103;835
+GEC315;Structures;4;1103;836
+GEC340;Géotechnique;4;1103;837
+GEC370;Hydrologie de l'ingénieur;4;1103;838
+GEC425;Dimensionnement des structures de chaussées;4;1103;839
+MTH104;Calcul Intégral et applications;4;1103;840
+GEC300;Aperçu des Ouvrages d'art;5;1103;841
+GEC305;Ecoulement en charge;5;1103;842
+GEC310;Ecoulement à surface libre;5;1103;843
+GEC405;Béton armé: Calcul des sollicitations;5;1103;844
+GEC410;Construction métallique;5;1103;845
+GEC450;Procédés généraux de construction;5;1103;846
+GEL307;Equipements électriques;5;1103;847
+INF229;Initiation au Dessin Assisté par Ordinateur;5;1103;848
+MGT410;Sécurité et hygiène au travail;5;1103;849
+MTH401;Introduction à l'analyse numérique;5;1103;850
+CPT100;Comptabilité;6;1103;851
+DRV471;Propriété industrielle: Notions générales;6;1103;852
+GEC260;Eléments de contrôle d'un chantier de génie civil;6;1103;853
+GEC345;Alimentation en eau;6;1103;854
+GEC350;Assainissement;6;1103;855
+GEC435;Projet de spécialité;6;1103;856
+GEC445;Métré et étude de prix;6;1103;857
+GEC452;Organisation et planification de chantier;6;1103;858
+GEC455;Béton Armé: Justification des sections et ouvrages;6;1103;859
+ANG100;Anglais : Ecouter et Parler;1;1099;860
+CHM115;Chimie appliquée pour Tech. Sup.: notions de base;1;1099;861
+FRA100;Français : Ecouter et Parler;1;1099;862
+GEL100;Introduction aux Circuits Electriques;1;1099;863
+GEL105;Mesures et Essais;1;1099;864
+GEL107;Electricité Générale;1;1099;865
+GEL109;Mécanique Appliquée au point Matériel;1;1099;866
+GEM111;Géométrie Descriptive pour Technicien Sup.;1;1099;867
+GEM302;Notions sur la Résistance des Matériaux;1;1099;868
+MTH150;Eléments d'algèbre et de géométrie;1;1099;869
+PHY139;Electrostatique et applications;1;1099;870
+UEL1;UE Libres;1;1099;871
+ANG101;Anglais : Lire et Ecrire;2;1099;872
+CHM215;Chimie appliquée pour technicien supérieur: notions avancées;2;1099;873
+FRA101;Français: Lire et Ecrire;2;1099;874
+GEL200;Etude d'Equipement et Câblage;2;1099;875
+GEL202;Introduction à l'Electronique Générale par la pratique;2;1099;876
+GEL205;Résistance des Matériaux;2;1099;877
+GEL206;Mécanique Appliquée au Solide;2;1099;878
+GEL208;Transformateurs et Machines Asynchrones;2;1099;879
+INF115;Informatique de Base;2;1099;880
+INF116;Introduction à la Programmation;2;1099;881
+MTH151;Eléments d'analyse  mathématique;2;1099;882
+PHY239;Introduction à la Physique des capteurs;2;1099;883
+UEL2;UE Libres;2;1099;884
+FRA205;Français: Ecrits professionnels;3;1099;885
+GEL305;Introduction aux Installations Electriques;3;1099;886
+GEL310;Notions Avancées d'Electronique Générale par la pratique;3;1099;887
+GEL315;Systèmes Logiques par la Pratique;3;1099;888
+GEL316;Machines à Courant Continu et Machines Synchrones;3;1099;889
+GEL318;Alimentation Electrique;3;1099;890
+GEL322;Gestion de la Maintenance;3;1099;891
+INF315;Technologie des Ordinateurs et Informatique Industrielle : Introduction;3;1099;892
+INF350;Mise en œuvre de Systèmes Informatiques;3;1099;893
+MTH231;Intégrales Généralisées, Transformées de Fourier et de Laplace et Applications;3;1099;894
+STA160;Calcul de probabilités et statistiques;3;1099;895
+UEL3;UE Libres;3;1099;896
+ANG201;Anglais de spécialité : approche thématique des textes;4;1099;897
+ECO370;Initiation à la vie Professionnelle;4;1099;898
+GEL355;Introduction à l'Electronique de Puissance;4;1099;899
+GEL356;Introduction à l'Asservissement et Régulation;4;1099;900
+GEL357;Automates Programmables par la Pratique;4;1099;901
+GEL358;Commande des Machines par la Pratique;4;1099;902
+GEL360;Introduction à la Production, Transport, Distribution et Protection;4;1099;903
+GEL365;Lignes-Antennes-Propagation (LAP);4;1099;904
+GEL369;Maintenance des Appareils Audio Visuels (MAAV);4;1099;905
+INF355;Technologie des Ordinateurs et Informatique Industrielle : Microprocesseurs;4;1099;906
+INF402;Introduction à l'algorithme, à la programmation et aux bases de données;4;1099;907
+UEL4;UE Libres;4;1099;908
+DRV471;Propriété industrielle: Notions générales;5;1099;909
+ECO410;Elaboration des projets de création d'entreprise;5;1099;910
+GEL431;Réseaux Electriques;5;1099;911
+GEL432;Energies Solaire (Applications);5;1099;912
+GEL433;Energie Eolienne (Applications);5;1099;913
+GEL434;Distribution Haute et Basse Tension;5;1099;914
+GEL435;Protection des réseaux et des Machines Electriques;5;1099;915
+GEL436;Conversion Electrique : Convertisseurs Statiques Industriels;5;1099;916
+GEL437;Machines Electriques : Modèles et Comportements;5;1099;917
+GEL438;Energie Electrique et ses impacts environnementaux;5;1099;918
+GEL439;Appareillages Electriques;5;1099;919
+GEL440;Projet tutoré (PGDEE);5;1099;920
+MGT400;Gestion de la Qualité;5;1099;921
+MGT410;Sécurité et Hygiène du Travail;5;1099;922
+GEL460;Stage et mémoire de licence professionnelle génie électrique, conducteur des travaux;6;1099;923
+CHM107;Chimie appliquée;1;1102;924
+GEM100;Dessin Technique : Dessin de Définition;1;1102;925
+GEM110;Géométrie Descriptive de base;1;1102;926
+INF100;Système d'exploitation et introduction à la programmation;1;1102;927
+MTH100;Bases mathématiques;1;1102;928
+MTH101;Algèbre linéaire de base;1;1102;929
+PHY103;Lumière et application;1;1102;930
+PHY104;Électrostatique et Électrocinétique;1;1102;931
+PHY106;Mécanique du point matériel;1;1102;932
+ANG100;Anglais : Ecouter et Parler;2;1102;933
+FRA100;Français : Ecouter et Parler;2;1102;934
+GEC240;Introduction à la Topographie: Nivellement;2;1102;935
+GEM200;Dessin Technique : Dessin d'Ensemble;2;1102;936
+INF200;Algorithme et structures de données;2;1102;937
+MTH102;Structure algébrique de base;2;1102;938
+MTH103;Calcul Différentiel dans IR;2;1102;939
+PHY206;Mécanique du solide;2;1102;940
+PHY209;Notion avancée d'Électrostatique et Électrocinétique;2;1102;941
+ANG101;Anglais : Lire et Ecrire;3;1102;942
+ECO100;Introduction générale à la science économique;3;1102;943
+FRA101;Français : Lire et Ecrire;3;1102;944
+GEL350;Introduction à l'électrotechnique;3;1102;945
+GEL412;Electromagnétisme;3;1102;946
+GEM301;Construction Mécanique pour GE;3;1102;947
+PHY110;Magnétostatique et Régimes variables;3;1102;948
+PHY169;Statique Appliquée;3;1102;949
+PHY349;Introduction à la thermodynamique;3;1102;950
+STA160;Calcul de probabilités et statistiques;3;1102;951
+ANG201;Anglais de spécialité : approche thématique des textes;4;1102;952
+FRA205;Français: Ecrits professionnels;4;1102;953
+GEL300;Introduction à l'Electronique;4;1102;954
+GEL402;Mesures électriques;4;1102;955
+GEL410;Circuits Electriques;4;1102;956
+GEM215;Notion de RDM pour Ingénieur en GE;4;1102;957
+GEM310;Fabrication Mécanique : La Pièce mécanique;4;1102;958
+MTH104;Calcul Intégral et applications;4;1102;959
+PHY190;Notions Avancée de Magnétostatique et Régimes Variables;4;1102;960
+GEL360;Introduction à la Production, Transport, Distribution et Protection;5;1102;961
+GEL366;Introduction à l'Asservissement et Régulation des systèmes linéaires;5;1102;962
+GEL380;Installations Electriques;5;1102;963
+GEL400;Electronique du Signal et Composants;5;1102;964
+GEL404;Appareillages Electriques et Câblage;5;1102;965
+GEL454;Systèmes Signaux Simulation;5;1102;966
+GEL456;Machines Electriques : Constitution et Principes de fonctionnement;5;1102;967
+MTH401;Introduction à l'analyse numérique;5;1102;968
+PHY339;Physique des Capteurs;5;1102;969
+CPT100;Comptabilité;6;1102;970
+DRV471;Propriété industrielle: Notions générales;6;1102;971
+GEL325;Systèmes de Maintenance;6;1102;972
+GEL361;Introduction aux Automates Programmables;6;1102;973
+GEL363;Introduction aux Convertisseurs Statiques;6;1102;974
+GEL370;Traitement du Signal;6;1102;975
+GEL450;Electronique : Fonctions et systèmes;6;1102;976
+GEL452;Systèmes Logiques;6;1102;977
+GEL470;Projet de Spécialité GE;6;1102;978
+INF410;Architecture et Technologie des Ordinateurs;6;1102;979
+ANG100;Anglais : Ecouter et Parler;1;1101;981
+CHM115;Chimie appliquée pour Tech. Sup.: notions de base;1;1101;982
+FRA100;Français : Ecouter et Parler;1;1101;983
+GEL123;Electricité - Conducteur-Electrocinétique;1;1101;984
+GEM105;Statique Appliquée;1;1101;985
+GEM112;Essai des mécanismes: dureté, fatigue;1;1101;986
+GEM125;Thermodynamique Appliquée : notions générales;1;1101;987
+GEM135;TP Fabrication Mécanique: opérations élémentaires;1;1101;988
+GEM330;Construction Mécanique: éléments de base;1;1101;989
+GEM405;Bureau des Méthodes: Introduction;1;1101;990
+MTH150;Elément d'Algèbre et de géométrie;1;1101;991
+ANG101;Anglais : Lire et Ecrire;2;1101;992
+CHM215;Chimie appliquée pour technicien supérieur: notions avancées;2;1101;993
+FRA101;Français: Lire et Ecrire;2;1101;994
+GEL341;Electrotechnique;2;1101;995
+GEM216;Essai des mécanismes : les appareils de levage et manutention;2;1101;996
+GEM302;Résistance des Matériaux : notions de base;2;1101;997
+GEM415;Fabrication Mécanique: les outils et leur emploi;2;1101;998
+GEM420;TP Fabrication Mécanique: Usinages classiques;2;1101;999
+GEM440;Bureau des Méthodes : niveau avancé;2;1101;1000
+INF115;Informatique de Base;2;1101;1001
+INF116;Introduction à la Programmation;2;1101;1002
+MTH151;Elément d'Analyse mathématique;2;1101;1003
+FRA205;Français: Ecrits professionnels;3;1101;1004
+GEL342;Notions d'électrotechnique;3;1101;1005
+GEM206;Cinématique appliquée;3;1101;1006
+GEM306;Résistance des Matériaux : notions avancées;3;1101;1007
+GEM332;Métallurgie et Essai des Matériaux: Structure et élaboration des matériaux;3;1101;1008
+GEM431;TP Fabrication Mécanique: Usinages spéciaux;3;1101;1009
+GEM437;Construction Mécanique: les éléments de transmission de mouvement;3;1101;1010
+GEM444;CFAO – CN pour Tech. Sup.;3;1101;1011
+GEM450;Montage d'usinage;3;1101;1012
+MTH231;Intégrales généralisés, Transformés de Fourier et de Laplace et Application;3;1101;1013
+PHY159;Introduction à la Mécanique des fluides;3;1101;1014
+STA160;Calcul de probabilités et statistiques;3;1101;1015
+ANG201;Anglais de spécialité : approche thématique des textes;4;1101;1016
+ECO370;Initiation à la vie Professionnelle;4;1101;1017
+GEL120;Automatisme pour Tech. Sup.;4;1101;1018
+GEM101;Organisation et méthodes de la maintenance;4;1101;1019
+GEM148;Asservissement et régulation;4;1101;1020
+GEM334;Métallurgie et Essai des matériaux: aciers et fontes;4;1101;1021
+GEM416;Hydraulique et pneumatique;4;1101;1022
+GEM418;TP Mécanique des fluides;4;1101;1023
+GEM424;TP Fabrication Mécanique: moulage;4;1101;1024
+GEM426;Fabrication Mécanique: méthodes et procédés de montage;4;1101;1025
+GEM428;Micro-projet;4;1101;1026
+GEM446;TP CFAO – CN;4;1101;1027
+DRV471;Propriété industrielle: Notions générales;5;1101;1028
+ECO410;Elaboration des projets de création d'entreprise;5;1101;1029
+GEL121;Machines Electriques;5;1101;1030
+GEL122;Commande des machines;5;1101;1031
+GEM104;Mécanique auto;5;1101;1032
+GEM430;Maintenance Conditionnelle et Fiabilité des systèmes;5;1101;1033
+GEM432;Contrôle Non destructif;5;1101;1034
+GEM438;Conception et analyse des systèmes mécaniques;5;1101;1035
+GEM442;Techniques de Lubrification des machines;5;1101;1036
+MGT400;Gestion de la Qualité;5;1101;1037
+MGT410;Sécurité et Hygiène du Travail;5;1101;1038
+GEM460;Stage et mémoire de licence professionnelle génie mécanique,  conducteur des travaux;6;1101;1039
+CHM107;Chimie appliquée;1;1104;1040
+GEM100;Dessin technique: dessin de définition;1;1104;1041
+GEM110;Géométrie Descriptive de base;1;1104;1042
+INF100;Système d'exploitation et introduction à la programmation;1;1104;1043
+MTH100;Bases mathématiques;1;1104;1044
+MTH101;Algèbre linéaire de base;1;1104;1045
+PHY103;Lumière et application;1;1104;1046
+PHY104;Électrostatique et Électrocinétique;1;1104;1047
+PHY106;Mécanique du point matériel;1;1104;1048
+ANG100;Anglais : Ecouter et Parler;2;1104;1049
+FRA100;Français : Ecouter et Parler;2;1104;1050
+GEM200;Dessin Technique : Dessin d'Ensemble;2;1104;1051
+GEM310;Fabrication Mécanique : La pièce mécanique;2;1104;1052
+GEM330;Construction Mécanique: éléments de base;2;1104;1053
+INF200;Algorithme et structures de données;2;1104;1054
+MTH102;Structure algébrique de base;2;1104;1055
+MTH103;Calcul Différentiel dans IR;2;1104;1056
+PHY206;Mécanique du solide;2;1104;1057
+ANG101;Anglais : Lire et Ecrire;3;1104;1058
+ECO100;Introduction générale à la science économique;3;1104;1059
+FRA101;Français : Lire et Ecrire;3;1104;1060
+GEM340;Fabrication mécanique: le porte-pièce et les machines-outils;3;1104;1061
+GEM410;Construction mécanique: les arbres et les roulements;3;1104;1062
+PHY110;Magnétostatique et Régimes variables;3;1104;1063
+PHY159;Introduction à la Mécanique des fluides;3;1104;1064
+PHY169;Statique Appliquée;3;1104;1065
+STA160;Calcul de probabilités et statistiques;3;1104;1066
+ANG201;Anglais de spécialité : approche thématique des textes;4;1104;1067
+FRA205;Français: Ecrits professionnels;4;1104;1068
+GEM135;TP Fabrication Mécanique: opérations élémentaires;4;1104;1069
+GEM300;Introduction à la Conception Assistée par Ordinateur;4;1104;1070
+GEM320;Résistance des matériaux appliquée au Génie Mécanique;4;1104;1071
+GEM415;Fabrication Mécanique: les outils et leur emploi;4;1104;1072
+GEM434;Construction mécanique: les ressorts et boulons;4;1104;1073
+MTH104;Calcul Intégral et applications;4;1104;1074
+PHY202;Thermodynamique classique;4;1104;1075
+GEL420;Circuits et mesures électriques;5;1104;1076
+GEM101;Organisation et méthodes de la maintenance;5;1104;1077
+GEM405;Bureau des Méthodes: Introduction;5;1104;1078
+GEM419;Fabrication mécanique: les porte-outils et analyse d'usinage;5;1104;1079
+GEM420;TP Fabrication Mécanique: Usinages classiques;5;1104;1080
+GEM437;Construction Mécanique: les éléments de transmission de mouvement;5;1104;1081
+GEM445;CFAO-CN;5;1104;1082
+GEM450;Montage d'usinage;5;1104;1083
+MGT410;Sécurité et hygiène au travail;5;1104;1084
+MTH401;Introduction à l'analyse numérique;5;1104;1085
+CPT100;Comptabilité;6;1104;1086
+DRV471;Propriété industrielle: Notions générales;6;1104;1087
+GEM220;Thermodynamique appliquée;6;1104;1088
+GEM416;Hydraulique et pneumatique;6;1104;1089
+GEM426;Fabrication Mécanique: méthodes et procédés de montage;6;1104;1090
+GEM431;TP Fabrication Mécanique: Usinages spéciaux;6;1104;1091
+GEM439;Construction mécanique avancée;6;1104;1092
+GEM440;Bureau des méthodes: niveau avancé;6;1104;1093
+GEM480;Projet de conception Génie Mécanique;6;1104;1094
+ANG100;Anglais : Ecouter et Parler;1;1098;1096
+ANG101;Anglais : Lire  et Ecrire;1;1098;1097
+ANG201;Anglais de spécialité : approche thématique des textes;1;1098;1098
+CHM115;Chimie Appliquée pour Tech. Sup.  I;1;1098;1099
+CHM215;Chimie Appliquée pour Tech. Sup. II;1;1098;1100
+DRI400;Gestion de la Propriété Industrielle;1;1098;1101
+ECO370;Initiation à la vie Professionnelle;1;1098;1102
+ECO410;Elaboration des projets de création d'entreprise;1;1098;1103
+FRA100;Français : Ecouter et Parler I;1;1098;1104
+FRA101;Français: Lire  et Ecrire;1;1098;1105
+FRA205;Français: Ecrits professionnels;1;1098;1106
+GEL120;Automatisme pour Tech. Sup.;1;1098;1107
+GEL121;Machines Electriques;1;1098;1108
+GEL122;Commande des machines;1;1098;1109
+GEL123;Electricité - Electronique - Electrotechnique I;1;1098;1110
+GEL341;Electricité - Electronique - Electrotechnique II;1;1098;1111
+GEL342;Electricité - Electronique - Electrotechnique III;1;1098;1112
+GEM101;Organisation et méthodes de la maintenance;1;1098;1113
+GEM102;Bureau des Méthodes pour Tech. Sup. I;1;1098;1114
+GEM104;Mécanique auto;1;1098;1115
+GEM105;Statique Appliquée;1;1098;1116
+GEM112;Essai des mécanismes I;1;1098;1117
+GEM115;Construction Mécanique pour tech. Sup.  I;1;1098;1118
+GEM122;Introduction à la Mécanique des fluides;1;1098;1119
+GEM125;Thermodynamique appliquée;1;1098;1120
+GEM135;TP Fabrication Mécanique et Métrologie I;1;1098;1121
+GEM140;Fabrication Mécanique pour Tech. Sup.  I;1;1098;1122
+GEM148;Asservissement et régulation;1;1098;1123
+GEM206;Cinématique appliquée;1;1098;1124
+GEM216;Essai des mécanismes II;1;1098;1125
+GEM302;Résistance des Matériaux de base I;1;1098;1126
+GEM306;Résistance des Matériaux de base II;1;1098;1127
+GEM332;Métallurgie et Essai des Matériaux I;1;1098;1128
+GEM334;Métallurgie et Essai des Matériaux II;1;1098;1129
+GEM341;Fabrication Mécanique pour Tech. Sup.  II;1;1098;1130
+GEM406;Résistance des Matériaux de base III;1;1098;1131
+GEM413;Fabrication Mécanique pour Tech. Sup. III;1;1098;1132
+GEM416;Hydraulique et pneumatique;1;1098;1133
+GEM417;Fabrication Mécanique pour Tech. Sup. IV;1;1098;1134
+GEM418;TP Mécanique des fluides;1;1098;1135
+GEM420;TP Fabrication Mécanique et Métrologie II;1;1098;1136
+GEM422;TP Fabrication Mécanique et Métrologie III;1;1098;1137
+GEM424;TP Fabrication Mécanique et Métrologie IV;1;1098;1138
+GEM428;Micro-projet;1;1098;1139
+GEM430;Maintenance Conditionnelle et Fiabilité des systèmes;1;1098;1140
+GEM432;Contrôle Non destructif;1;1098;1141
+GEM433;Construction Mécanique pour Tech. Sup. II;1;1098;1142
+GEM435;Construction Mécanique pour Tech. Sup.III;1;1098;1143
+GEM436;Construction Mécanique pour Tech. Sup. IV;1;1098;1144
+GEM438;Conception et analyse des systèmes mécaniques;1;1098;1145
+GEM442;Techniques de Lubrification des machines;1;1098;1146
+GEM444;CFAO – CN pour Tech. Sup.;1;1098;1147
+GEM446;TP CFAO – CN;1;1098;1148
+GEM450;Montage d'usinage;1;1098;1149
+GEM451;Bureau des Méthodes pour Tech. Sup.  II;1;1098;1150
+GEM546;Mémoire de Licence;1;1098;1151
+INF215;Informatique de Base;1;1098;1152
+INF216;Introduction à la Programmation;1;1098;1153
+MGT400;Gestion de la Qualité;1;1098;1154
+MGT410;Sécurité et Hygiène du Travail;1;1098;1155
+MTH150;Elément d'Algèbre et de géométrie;1;1098;1156
+MTH151;Elément d'Analyse;1;1098;1157
+MTH231;Intégrales généralisés, Transformés de Fourier et de Laplace et Application;1;1098;1158
+STA160;Calcul de probabilités et statistiques;1;1098;1159
+GES5120;Accompagnement des Idées et opportunités entrepreneuriales;1;1656;1160
+GES5124;Comptabilité et fiscalité;1;1656;1161
+GES5121;Développement des Compétences entrepreneuriales;2;1656;1162
+GES5122;Conception et pilotage d'un scénario entrepreneurial;2;1656;1163
+GES5123;Stage et ateliers : Projet entrepreneurial;2;1656;1164
+ANG2128;Practical English B1(Mise à niveau);1;1083;1168
+ANG2129;Professional English B2+ (mise à niveau);1;1083;1169
+DRT2120;Droit, éthique, propriété intellectuelle;1;1083;1170
+INF2120;Aide à la décision;1;1083;1171
+INF2122;Programmation;1;1083;1172
+MGT2121;Management de projets et d'entreprise;1;1083;1173
+MTH2120;Statistique inférentielle;1;1083;1174
+MTH2129;Fondements de l'informatique et de l'IA;1;1083;1175
+ANG2228;Professional English B2;2;1083;1176
+ANG2229;English for Technology and Industry C1;2;1083;1177
+FPU2221;Méthodologie de recherche en sciences;2;1083;1178
+INF2220;Optimisation avancée;2;1083;1179
+INF2221;Méthodes de Machine Learning;2;1083;1180
+INF2225;Fondamentaux du génie logiciel;2;1083;1181
+INF2226;Réseaux informatiques : CCNA Routing and Switching (certification);2;1083;1182
+TCC2220;Projet tuteuré 1 : Observer son environnement et proposer des solutions;2;1083;1183
+TCC2223;Séminaire : Présentation sur un thème ou outil;2;1083;1184
+ANG2328;Business English B2 et EXAMEN INTERNATIONAL;3;1083;1185
+ANG2329;Business English C1 et EXAMEN INTERNATIONAL;3;1083;1186
+INF2320;Conception et pilotage de système d'IoT;3;1083;1187
+INF2321;Migration cloud;3;1083;1188
+INF2322;Architecture et développement en JEE;3;1083;1189
+INF2325;Sécurité des systèmes informatiques;3;1083;1190
+INF2327;Administration des bases de données avancées;3;1083;1191
+INF2329;Interface Homme-Machine;3;1083;1192
+TCC2320;Projet tutoré 2;3;1083;1193
+INF2420;Stage de longue durée, période de création d'entreprise (24 semaines);4;1083;1194
+ANG2126;Anglais Technique : Lire et écrire;1;1060;1195
+ECO2128;Création d’entreprise;1;1060;1196
+GEL2126;Circuits, Mesures et automatique;1;1060;1197
+GEL2127;Machines électriques;1;1060;1198
+INF2126;Programmation Orientée Objet;1;1060;1199
+MTH2126;Mathématique pour l’Ingénieur;1;1060;1200
+MTH2127;Outils d’analyse mathématique;1;1060;1201
+ANG2226;Anglais Technique : Ecrits professionnels;2;1060;1202
+GEL2221;CAO / DAO et installation électrique;2;1060;1203
+GEL2222;Production et transport de l’Energie Electrique;2;1060;1204
+GEL2223;Convertisseurs statiques – Energie solaire;2;1060;1205
+GEL2224;Automates Programmables : Réseaux Industriels de Terrain;2;1060;1206
+GEL2226;Machines électriques et Haut Tension;2;1060;1207
+INF2226;Informatique Appliquée;2;1060;1208
+GEL2320;Energie Eolienne et Protections des Réseaux Electriques;3;1060;1209
+GEL2321;Production et distribution de l’énergie électrique;3;1060;1210
+GEL2322;Commandes des machines électriques et Entrainements et Tractions Electriques;3;1060;1211
+GEL2324;Fiabilité et énergie électrique;3;1060;1212
+GEL2325;Réseaux électriques et développement durable;3;1060;1213
+GEL2326;Qualité et Recherche en Ingénierie;3;1060;1214
+MGT2129;Elaboration de Dossier de Soumissions et Procédures de Passation des Marchés;3;1060;1215
+GEL2426;Stage de Master Ingénieur professionnel en Electricité;4;1060;1216
+GEL2427;Rédaction et Soutenance de mémoire de Master Ingénieur de Conception;4;1060;1217
+ANG2128;Practical English B1(Mise à niveau);1;1084;1218
+ANG2129;Professional English B2+ (mise à niveau);1;1084;1219
+DRT2120;Droit, éthique, propriété intellectuelle;1;1084;1220
+INF2120;Aide à la décision;1;1084;1221
+INF2122;Programmation;1;1084;1222
+MGT2121;Management de projets et d'entreprise;1;1084;1223
+MTH2120;Statistique inférentielle;1;1084;1224
+MTH2129;Fondements de l'informatique et de l'IA;1;1084;1225
+ANG2228;Professional English B2;2;1084;1226
+ANG2229;English for Technology and Industry C1;2;1084;1227
+FPU2221;Méthodologie de recherche en sciences;2;1084;1228
+INF2220;Optimisation avancée;2;1084;1229
+INF2221;Méthodes de Machine Learning;2;1084;1230
+INF2223;Données et architecture;2;1084;1231
+INF2227;Technique et outils de production;2;1084;1232
+INF2228;Programmation avancée 2;2;1084;1233
+INF2229;Informatique et Gestion de données;2;1084;1234
+TCC2220;Projet tuteuré 1 : Observer son environnement et proposer des solutions;2;1084;1235
+ANG2328;Business English B2 et EXAMEN INTERNATIONAL;3;1084;1236
+ANG2329;Business English C1 et EXAMEN INTERNATIONAL;3;1084;1237
+INF2321;Migration cloud;3;1084;1238
+INF2323;Environnement du Big Data;3;1084;1239
+INF2324;Cloud et Traitements distribués;3;1084;1240
+INF2326;Plateforme Middleware pour le Big Data;3;1084;1241
+INF2328;Programmation avancée 3;3;1084;1242
+MTH2321;Reconnaissance et apprentissage automatique (RL, LSTM et NLP);3;1084;1243
+MTH2329;Mathématiques de l'IA 3 : MLP, CNN et GAN;3;1084;1244
+TCC2320;Projet tutoré 2;3;1084;1245
+INF2420;Stage de longue durée, période de création d'entreprise (24 semaines);4;1084;1246
+ANG2128;Practical English B1(Mise à niveau);1;1085;1247
+ANG2129;Professional English B2+ (mise à niveau);1;1085;1248
+DRT2120;Droit, éthique, propriété intellectuelle;1;1085;1249
+INF2120;Aide à la décision;1;1085;1250
+INF2122;Programmation;1;1085;1251
+MGT2121;Management de projets et d'entreprise;1;1085;1252
+MTH2129;Fondements de l'informatique et de l'IA;1;1085;1253
+ANG2228;Professional English B2;2;1085;1254
+ANG2229;English for Technology and Industry C1;2;1085;1255
+FPU2221;Méthodologie de recherche en sciences;2;1085;1256
+INF2220;Optimisation avancée;2;1085;1257
+INF2221;Modélisation d'un processus logistique;2;1085;1258
+INF2225;Conception de réseau logistique;2;1085;1259
+INF2226;Gestion des entrepôts;2;1085;1260
+TCC2220;Projet tuteuré 1 : Observer son environnement et proposer des solutions;2;1085;1261
+TCC2223;Ordonnancement;2;1085;1262
+ANG2328;Business English B2 et EXAMEN INTERNATIONAL;3;1085;1263
+ANG2329;Business English C1 et EXAMEN INTERNATIONAL;3;1085;1264
+TCC2320;Projet tutoré 2;3;1085;1265
+ANG2126;Anglais de Spécialité;1;1717;1266
+DRV2120;Droits des Sociétés;1;1717;1267
+ECO2120;Entreprenariat;1;1717;1268
+GEC2120;Hydraulique routière;1;1717;1269
+GEC2121;Mécanique Appliquée;1;1717;1270
+GEC2122;Technologies des Ouvrages;1;1717;1271
+MGT2121;Gestion de la Qualité;1;1717;1272
+MTH2120;Elaboration de dossiers de soumissions et procédures de marchés;1;1717;1273
+MTH2126;Mathématiques de l'Ingénieur;1;1717;1274
+SOC2120;Sociologie de l'ingénieur;1;1717;1275
+URB2120;Notions d'Urbanisme;1;1717;1276
+GEC2220;Béton armé et précontraint;2;1717;1277
+GEC2221;Eau et assainissement;2;1717;1278
+GEC2222;Matériaux tropicaux et Composites;2;1717;1279
+GEC2223;Dimensionnement Géotechnique des Ouvrages;2;1717;1280
+GEC2224;Physique du bâtiment;2;1717;1281
+GEC2225;Dynamique des Ouvrages;2;1717;1282
+GEC2227;Constructions mixtes;2;1717;1283
+GEC2228;Dimensionnement des structures légères;2;1717;1284
+GEC2320;Constructions durables et matériaux biosourcés;3;1717;1285
+GEC2321;Planification de chantier;3;1717;1286
+GEC2322;Dimensionnement des ponts;3;1717;1287
+GEC2323;Etude de logiciels de spécialités;3;1717;1288
+GEC2324;Pathologies et réparations des ouvrages de Génie Civil;3;1717;1289
+GEC2325;Séminaire de l'ingénieur et visites de chantier;3;1717;1290
+GEC2326;Dimensionnement des routes assisté par ordinateur;3;1717;1291
+GEC2327;Etude d'ouvrages spécifiques;3;1717;1292
+PHY2329;Climatisation;3;1717;1293
+GEC2420;Mémoire de Master Génie civil;4;1717;1294
+DRV2120;Droit des sociétés;1;1719;1295
+ECO2121;Entreprenariat;1;1719;1296
+FPU2129;Initiation à la pédagogie universitaire;1;1719;1297
+GEL2120;Technologie et technique d'un signal porteur;1;1719;1298
+INF2120;Programmation Orientée Objet;1;1719;1299
+MGT2120;Elaboration des dossiers de soumission et procédures de passation des marchés;1;1719;1300
+MGT2121;Gestion de la Qualité;1;1719;1301
+MTH2126;Mathématique de l'ingénieur;1;1719;1302
+MTH2127;Probabilités et statistiques pour l'ingénieur;1;1719;1303
+SOC2120;Sociologie de l'ingénieur;1;1719;1304
+GEL2220;Machines électriques : Caractéristiques et Exploitation;2;1719;1305
+GEL2221;Electronique de Puissance: Modèles et Simulation;2;1719;1306
+GEL2222;Systèmes Asservis Echantillonnés;2;1719;1307
+GEL2223;Transport de l'Energie Electrique;2;1719;1308
+GEL2224;Distribution de l'Energie Electrique;2;1719;1309
+GEL2225;Structure, Constitution et Principes de Fonctionnement des Machines Electriques;2;1719;1310
+GEL2226;Outils d'analyse énergétique pour le dévéloppement énergétique durable ( MAED,WASP,FINPLAN, MESSAGE,SIMPACTS);2;1719;1311
+GEL2227;Energies Renouvelables : Modélisation;2;1719;1312
+GEL2228;Production de l'Energie Electrique conventionnelle;2;1719;1313
+MTH2220;Méthode des éléments finis;2;1719;1314
+ANG2326;Anglais Technique : Ecrits professionnels;3;1719;1315
+GEL2320;Entraînements et Tractions Electriques;3;1719;1316
+GEL2321;Energie renouvelable: production décentralisée et réseaux électriques intélligents : Smartgrids;3;1719;1317
+GEL2322;Commandes des Machines;3;1719;1318
+GEL2323;Automates Programmables: Réseaux Industriels de Terrain;3;1719;1319
+GEL2324;Protections Electriques;3;1719;1320
+GEL2325;Systèmes de Télécommunications : Téléphonie et Transmission de Données Numériques;3;1719;1321
+GEL2326;Système de Télécommunications : La Télévision Numérique et la Télévision Numérique Terrestre (TNT);3;1719;1322
+GEL2327;Projet en EEEA ( Electricité-Electrotechnique-Electronique-Automatique);3;1719;1323
+GEL2328;Ondes Electromagnétiques;3;1719;1324
+INF2320;Introduction au Système UNIX;3;1719;1325
+INF2321;Informatique Appliquée;3;1719;1326
+GEL2420;Stage en entreprise & Rédaction de mémoire;4;1719;1327
+GEL2421;Soutenance de mémoire de Master Ingénieur Professionnel en Génie Electrique;4;1719;1328
+ANG2126;Anglais Pratique de Spécialité : Lire et écrire;1;1058;1329
+ECO2128;Création d’entreprise;1;1058;1330
+GEL2126;UE Composite GEL2126;1;1058;1331
+GEL2127;UE Composite GEL2127;1;1058;1332
+GEL2129;Mesures et statistiques;1;1058;1333
+INF2126;Programmation Orientée Objet;1;1058;1334
+MTH2126;Mathématique pour l’Ingénieur;1;1058;1335
+MTH2128;Analyses numériques;1;1058;1336
+ANG2226;Anglais pratique de Spécialité : Ecrits professionnels;2;1058;1337
+FPU2229;Introduction à la Pédagogie Universitaire;2;1058;1338
+GEL2222;UE Composite GEL2222;2;1058;1339
+GEL2223;UE Composite GEL2223;2;1058;1340
+GEL2224;Automates Programmables : Réseaux Industriels de Terrain;2;1058;1341
+GEL2225;Installations Electriques Industrielles et domestiques;2;1058;1342
+GEL2228;UE Composite GEL2228;2;1058;1343
+GEL2229;Méthodologie et Evaluation des Travaux de Recherche;2;1058;1344
+INF2226;Informatique Appliquée;2;1058;1345
+GEL2322;UE Composite GEL2322;3;1058;1346
+GEL2323;UE Composite GEL2323;3;1058;1347
+GEL2325;UE Composite GEL2325;3;1058;1348
+GEL2327;UE Composite GEL2327;3;1058;1349
+GEL2328;UE Composite GEL2328;3;1058;1350
+GEL2329;Fiabilité des Systèmes Electriques;3;1058;1351
+MGT2329;Elaboration de Dossier de Soumissions et Procédures de Passation des Marchés;3;1058;1352
+GEL2426;Stage au laboratoire/en entreprise et rédaction de mémoire;4;1058;1353
+GEL2427;Rédaction et Soutenance de mémoire de Master Ingénieur recherche en Electricité;4;1058;1354
