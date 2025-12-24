@@ -74,3 +74,6 @@ Projet_EPL/
 │   └── scripts de génération et d’export
 ├── requirements.txt
 └── README.md
+
+## Démo en ligne
+https://dashboard-notes-epl-w7rahku2y9djk23h7vkgki.streamlit.app/
