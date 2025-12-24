@@ -146,6 +146,18 @@ elif menu == "Visualisations":
     ax.set_yticklabels(corr.columns)
     st.pyplot(fig)
 
+    # nuage de points
+    fig, ax = plt.subplots()
+    ax.scatter(
+        df_corr["moyenne_matiere"],
+        df_corr["note"],
+        alpha=0.5
+    )
+    ax.set_xlabel("Moyenne de la matière")
+    ax.set_ylabel("Note de l’étudiant")
+    ax.set_title("Nuage de points : note vs moyenne par matière")
+    st.pyplot(fig)
+
     # courbe cumulative
     notes_sorted = np.sort(df_f["note"])
     cumulative = np.arange(1, len(notes_sorted) + 1) / len(notes_sorted)
